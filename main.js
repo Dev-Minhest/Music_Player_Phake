@@ -3,70 +3,70 @@
 	{
 		id: 1,
 		class: 'jerryHerman',
-		url: "Music/Animals.mp3",
+		url: "Animals.mp3",
 		author: "Martin Garrix",
 		title: "Animails"
 	},
 	{
 		id: 2,
 		class: 'elvisPresley',
-		url: "Music/Crazy Donkey.mp3",
+		url: "Crazy Donkey.mp3",
 		author: "Elvis Presley",
 		title: "Crazy Donkey"
 	},
 	{
 		id: 3,
 		class: 'royOrbison',
-		url: "Music/CuoiThoi.mp3",
+		url: "CuoiThoi.mp3",
 		author: "Masiu, Masew",
 		title: "Cưới Thôi"
 	},
 	{
 		id: 4,
 		class: 'frankSinatra',
-		url: "Music/SaiGonHomNayMuaCukakRemix.mp3",
+		url: "SaiGonHomNayMuaCukakRemix.mp3",
 		author: "Hoàng Duyên",
 		title: "Sài Gòn Hôm Nay Mưa"
 	},
 	{
 		id: 5,
 		class: 'jimCroce',
-		url: "Music/ThangNam.mp3",
+		url: "ThangNam.mp3",
 		author: "Soobin Hoàng Sơn",
 		title: "Tháng Năm"
 	},
 	{
 		id: 6,
 		class: 'redHotChiliPeppers',
-		url: "Music/TheNights-Avicii.mp3",
+		url: "TheNights-Avicii.mp3",
 		author: "Avicii",
 		title: "The Nights"
 	},
 	{
 		id: 7,
 		class: 'stephaneGrappelli',
-		url: "Music/ThucGiac.mp3",
+		url: "ThucGiac.mp3",
 		author: "Da LAB",
 		title: "Thức Giấc"
 	},
 	{
 		id: 8,
 		class: 'evanKing',
-		url: "Music/WakeMeUpRadioEdit-Avicii.mp3",
+		url: "WakeMeUpRadioEdit-Avicii.mp3",
 		author: "Avicii",
 		title: "Wake Me Up"
 	},
 	{
 		id: 9,
 		class: 'JR',
-		url: "Music/Tro-Dua-RemixRemix.mp3",
+		url: "Tro-Dua-RemixRemix.mp3",
 		author: "Quang Đăng Trần, Châu Khải Phong",
 		title: "Trò Đùa"
 	},
 	{
 		id: 10,
 		class: 'theDeli',
-		url: "Music/DoToc2-MasewDoMixiPhucDuPhao.mp3",
+		url: "DoToc2-MasewDoMixiPhucDuPhao.mp3",
 		author: "ĐỘ MIXI x PHÚC DU x PHÁO",
 		title: "Độ Tộc 2"
 	}
